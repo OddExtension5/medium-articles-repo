@@ -16,6 +16,4 @@ In this repository, you can find my all medium blog related codes and links.
 6. The most used GoF Design Patterns in Simple words
 7. Kafka for Beginners with Use Case
 
-Make sure to follow me on Medium, if you don't to miss my upcoming articles on Medium.
-
-
+Make sure to follow me on Medium, if you don't want to miss my upcoming articles on Medium. Also do give a clap if you like my article and feedback is always welcome.
